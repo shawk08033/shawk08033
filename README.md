@@ -8,7 +8,7 @@ IoT · data systems · energy analytics · building automation
 
 ### Huckleberry
 
-[Huckleberry](https://fsmcontrols.com) is FSM's platform for **utility data, building analytics, and field operations** — bringing utility billing, equipment data, and site surveys into one place for energy and facilities teams.
+[Huckleberry](https://huckleberryservices.com/) is FSM's platform for **utility data, building analytics, and field operations** — bringing utility billing, equipment data, and site surveys into one place for energy and facilities teams.
 
 I own the full rollout, modernization, and go-to-market. Day-to-day that looks like:
 
